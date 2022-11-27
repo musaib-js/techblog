@@ -4,7 +4,10 @@ CATEGORY_CHOICES = (
     ('general', 'General'),
     ('python', 'Python'),
     ('javascript', 'JavaScript'),
-    ('C++', 'C++')
+    ('cpp', 'C++'),
+    ('web', 'Web Development'),
+    ('app', 'App Development'),
+    ('cp', 'Competitive Programming'),
 )
 
 class Post(models.Model):
