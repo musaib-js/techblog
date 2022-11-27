@@ -1,4 +1,4 @@
-# [TechBlog](https://github.com/musaib-js/techblog) Server (Project: TechBlog)
+# [TechOverflow](https://github.com/musaib-js/techblog) Server (Project: TechOverflow)
 
 ## Local setup instructions
 + Setup virtual environment
