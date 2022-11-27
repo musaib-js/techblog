@@ -1,4 +1,4 @@
-# [TechBlog](https://github.com/project-travel-mate/Travel-Mate) Server (Project: TechBlog)
+# [TechBlog](https://github.com/musaib-js/techblog) Server (Project: TechBlog)
 
 ## Local setup instructions
 + Setup virtual environment
